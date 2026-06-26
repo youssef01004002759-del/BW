@@ -86,7 +86,7 @@ html_code = """
         <div class="buttons-area" id="area">
             <!-- لما توافق، الشاشة كلها هتتغير للرسالة دي -->
             <!-- تم إضافة الرموز التعبيرية المطلوبة هنا -->
-            <button id="btn-yes" class="btn" onclick="document.body.innerHTML='<h1 style=\\'color:#cc0000; margin-top: 35vh; text-align:center;\\'>احلى بوسه للحلويات بتاعتي ❤️<br>🫦🫦🫦🫦🫦🫦🫦🫦🫦🫦🫦🫦🫦🫦🫦<br><br>- جوو</h1>'">أكيد ❤️</button>
+            <button id="btn-yes" class="btn" onclick="document.body.innerHTML='<h1 style=\\'color:#cc0000; margin-top: 35vh; text-align:center;\\'>احلى بوسه للحلويات بتاعتي ❤️<br>💋💋💋💋💋💋💋💋💋💋💋💋💋💋💋💋💋<br><br>- جوو</h1>'">أكيد ❤️</button>
             <button id="btn-no" class="btn">لا 💔</button>
         </div>
     </div>
